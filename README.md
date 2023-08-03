@@ -1,6 +1,6 @@
 # Practica1
 "Hola Mundo" en JavaScript
-![Alt text](holamundo.png)
+![Alt text](/Imagenes/holamundo.png)
 
 Creación de rama "Practica1"
-![Alt text](rama.png)
+![Alt text](/Imagenes/rama.png)
